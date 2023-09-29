@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+Faster batch same_shapes (#8851)
